@@ -1,0 +1,17 @@
+table, td, th {
+    border: 1px solid;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #d0d0d0;
+}
